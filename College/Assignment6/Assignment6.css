@@ -1,0 +1,22 @@
+﻿.imageStyle
+{
+	height: 80px;
+	width: 93px;
+	border: 3px solid grey;
+	left: 10px;
+}
+#allPage {
+	position: relative;
+	width: 530px;
+	margin-right: auto;
+	margin-left: auto;
+}
+body {
+	background-color: #000000;
+}
+.Center {
+	text-align: left;
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	color: #FFFFFF;
+	font-weight: lighter;
+}

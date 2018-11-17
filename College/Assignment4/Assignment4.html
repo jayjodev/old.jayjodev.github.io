@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="Table maker/html" />
+    <title>Member registration</title>
+    <script type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="Assignment4Styles.css"/>
+	<style type="text/css">
+	.h3 {
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	font-size: medium;
+	color: #008080;
+}
+	#regulation {
+		position: relative;
+		width: 500px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	</style>
+</head >
+
+<body>
+
+   <header id="Header" style="left: 0px; top: 0px">
+    <div id="HeaderIN">	
+    
+    <div id="TopBanner" class="Center" style="left: 0px; top: 0px; width: 500px">
+        <div class="auto-style2">
+			<span lang="en-ca">REGISTRATION</span></div>
+ </div>
+ 		</div>
+</header>
+
+<div id="allPage" class="Center">
+<form name='registration' onSubmit="return formValidation();">  
+    
+<fieldset id ="Regifrom">
+<legend><h2><span lang="en-ca">Member Registration</span></h2></legend>
+
+<table style="width: 100%">
+	<tr>
+		<td style="width: 125px" class="Leftword"><h4>Name:<span class="FontColor">*</span></h4></td>
+		<td class="left">
+		<input placeholder ="First name" type="text" name="FirstName" style="left: 15px; top: 10px; width: 150px">  
+		<input placeholder ="Last name" type="text" name="LastName" style="left: 40px; top: 10px; width: 100px"/></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>Address:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<input type="text" name="Address" size="50" style="left: 15px; top: 10px; width: 290px" /></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>City:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<input type="text" name="City" style="left: 15px; top: 10px; width: 150px" /></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>Postalcode:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<input type="text" name="Postalcode" style="left: 15px; top: 10px; width: 150px" /></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>Province:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<select name="Province" style="left: 15px; top: 15px; height: 30px;">  
+    <option selected="" value="Default">-</option>  
+    <option value="AF">NS</option>  
+    <option value="AL">NF</option>  
+    <option value="DZ">PE</option>  
+    <option value="AS">NB</option>  
+    <option value="AD">QC</option>  
+    <option value="AD">ON</option>  
+    <option value="AD">MN</option>  
+    <option value="AD">SK</option>  
+    <option value="AD">AB</option>  
+    <option value="AD">BC</option>
+</select></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>Age:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<input placeholder ="Minimum 18" type="text" name="age" style="left: 15px; top: 10px; width: 80px" /></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>Password:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<input type="password" name="password" style="left: 15px; top: 10px; width: 150px"/></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>Confirm:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<input type="password" name="confirm" style="left: 15px; top: 10px; width: 150px"/></td>
+	</tr>
+	<tr>
+		<td class="Leftword"><h4>Email:<span class="FontColor">*</span></h4> </td>
+		<td class="left"> 
+		<input placeholder ="name@example.com" type="text" name="Email" size="50" style="left: 15px; top: 10px; width: 290px" /></td>
+	</tr>
+</table>
+<br>
+<br>
+<input id="Button"type="submit" name="submit" value="Sign in" style="left: -30px; top: -9px; width: 120px; height: 40px;" />
+<input id ="Button" type="reset" value="Clear" style="left: 40px; top: -9px; width: 120px; height: 40px;" />
+<br>
+
+</fieldset>
+
+    </form>  
+ </div>
+ <div id="regulation">
+<h5><span class="FontColor">*</span>Required fields</h5></div>
+
+   <footer id="Footer">
+        <h6> &copy; Copyright Gangrae Jo - COMP125 Client-Side Web Development Summer-2018</h6>
+    </footer>
+         <div id ="Header2"class="Center"style="left: 0px; top: 0px; width: 500px">
+        </div>
+
+<script src="Assignment4.js"></script>
+
+</body>
+</html>

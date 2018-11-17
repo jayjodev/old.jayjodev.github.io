@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="Table maker/html" />
+    <title>Colorful Daegu</title>
+
+    <script type="text/javascript"></script>
+    <style type="text/css">
+	</style>
+<link rel="stylesheet" type="text/css" href="Assignment3Styles.css"/>
+
+</head >
+
+<body>
+
+   <header id="Header">
+    <div id="HeaderIN">	
+    
+    <div id="TopBanner">
+    <ul>
+ 	<li><a href="../index.html">Home</a></li>   
+	<li><a href="https://www.tripzilla.com/kto-daegu-korea-reasons-to-visit/70459">About Daegu</a></li>
+
+    </ul>
+		</div>
+    <div class="PageClear"></div>
+ </div></header>
+
+
+<h1 class="auto-style1">Colorful Daegu</h1>
+
+<div id="allslide" class="slideshow-container">
+
+  <div class="Slide">
+    <button id="favorite1" onclick ="favorite1()"style= "position:absolute;">Favorite</button>
+    <img id="image1"src="images/Daegu1.PNG" style="width:100%; height:397px; ">
+    <div class="text">Duryu Park, Daegu </div>
+  </div>
+
+  <div class="Slide">
+    <button id="favorite2" onclick ="favorite2()"style= "position:absolute;">Favorite</button>
+    <img id ="image2"src="images/Daegu2.PNG" style="width:100%; height:397px">
+    <div class="text">Duryu Park</div>
+  </div>
+
+  <div class="Slide">
+    <button id="favorite3" onclick ="favorite3()"style= "position:absolute;">Favorite</button>
+    <img id ="image3"src="images/Daegu3.PNG" style="width:100%; height:397px">
+    <div class="text">E-World 83 Tower</div>
+  </div>
+  
+  <div class="Slide">
+    <button id="favorite4" onclick ="favorite4()"style= "position:absolute;">Favorite</button>
+    <img id ="image4"src="images/Daegu4.PNG" style="width:100%; height:397px">
+    <div class="text">Daegu Yangnyeongsi Herbal Medicine Festival Organizing Committee</div>
+  </div>
+    
+  <div class="Slide">
+    <button id="favorite5" onclick ="favorite5()"style= "position:absolute;">Favorite</button>
+    <img id ="image5"src="images/Daegu5.PNG" style="width:100%; height:397px ">
+    <div class="text">Seomun Market</div>
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <div id="caption"></div>
+</div>
+<br>
+
+<div id ="dot" style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+</div>
+
+<div class="Center_image">
+
+   <button id="close" onclick ="closebigimage()">EXIT</button>
+    <img alt ="Daegu"id="hideimage" src="images/Daegu1.PNG" style="width:1350px; height:700px ">
+
+</div>
+
+<div class="favorite">
+<h1 class="auto-style1">Favorites</h1>
+	<br>
+	<table style="width: 750px">
+		<tr>
+			<td style="width:150px">
+			<img id="Fimage1" src="images/Daegu1.PNG" style="width:150px; height:100px ">
+			<button id="FCloseButtion1" onclick ="FChangeimage1()"style= "position:absolute;">Remove</button>
+			</td>
+			<td style="width:150px">
+			<img id="Fimage2" src="images/Daegu2.PNG" style="width:150px; height:100px ">
+			<button id="FCloseButtion2" onclick ="FChangeimage2()"style= "position:absolute;">Remove</button>
+			</td>
+			<td style="width:150px">
+			<img id="Fimage3" src="images/Daegu3.PNG" style="width:150px; height:100px ">
+			<button id="FCloseButtion3" onclick ="FChangeimage3()"style= "position:absolute;">Remove</button>
+			</td>
+			<td style="width:150px">
+			<img id="Fimage4" src="images/Daegu4.PNG" style="width:150px; height:100px ">
+			<button id="FCloseButtion4" onclick ="FChangeimage4()"style= "position:absolute;">Remove</button>
+			</td>
+			<td style="width:150px">
+			<img id="Fimage5" src="images/Daegu5.PNG" style="width:150px; height:100px ">
+			<button id="FCloseButtion5" onclick ="FChangeimage5()"style= "position:absolute;">Remove</button>
+
+			</td>
+		</tr>
+	</table>
+  <br>
+  <h6 class="auto-style1">If you clicks photo, the photo is removed from the favorites</h6>
+
+</div>
+    <footer id="Footer">
+        <h6> &copy; Copyright Gangrae Jo - COMP125 Client-Side Web Development Summer-2018</h6>
+    </footer>
+<script src="Assignment3.js"></script>
+
+</body>
+</html>

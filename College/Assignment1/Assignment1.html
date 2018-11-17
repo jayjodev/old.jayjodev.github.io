@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset= "utf-8"/>
+<meta content ="BMR Calculator/html" />
+<link rel="stylesheet" type="text/css" href="Assignment1Styles.css"/>
+<!--Style Sheet-->
+<script src="Assignment1.js"></script>
+
+<!--Javascripts-->
+<title>BMR Calculator Assignmnet1 Gangrae Jo</title>
+<style type="text/css">
+</style>
+</head>
+<!-- End of the Head-->
+
+<body>
+
+<div id="allPage">
+
+<form name="BMR">
+
+<div><h1 class="Center">BMR CALCULATOR</h1></div>
+
+	<table style="width: 100%">
+		<tr>
+			<td style="width: 180px" class="left"><h4 class="Center">Units</h4></td>
+			<td style="width: 360px" class="left">
+			<select id="mySelect" onchange="myFunction()" style="width: 300px; height: 28px;">
+  <option value="Imperial">IMPERIAL BMR CALCULATOR
+  <option value="Metric">METRIC BMR CALCULATOR
+
+</select>
+
+		</tr>
+		</table>
+		
+			<table style="width: 100%">
+
+		<tr>
+			<td style="width: 180px" class="left"><h4 class="Center">Gender</h4></td>
+			<td style="width: 360px" class="left">
+			<select name="Gender" size="1" tabindex="1" style="width: 300px; height: 28px;">
+				<option id="Man">Male</option>
+				<option id="Woman">Female</option>
+
+				</select>
+			
+			</td>
+			
+		</tr>
+				<tr>
+			<td style="width: 180px" class="left"><h4 class="Center">Activity level</h4></td>
+			<td style="width: 360px" class="left">
+			<select name="Activity" size="1" tabindex="1" style="width: 300px; height: 28px;">
+				<option id="No">Sedentary or light activity</option>
+				<option id="Moderate">Active or moderately active	</option>
+				<option id="Hard">Vigorously active</option>
+
+
+				</select>
+			
+			</td>
+			
+		</tr>
+
+		</table>
+				
+				<table style="width: 100%">
+
+		<tr>
+			<td style="width: 180px" class="left"><h4 class="Center">Weight: </h4></td>
+			<td style="width: 180px" class="left">
+			<input type="text" name="Weight" size="15" style=" height: 20px"/> </td>
+			<td style="width: 180px" class="left"><h6 id="POUNDS">POUNDS</h6></td>
+		</tr>
+		<tr>
+			<td style="width: 180px" class="left"><h4 class="Center">Height: </h4></td>
+			<td style="width: 180px" class="left"><input type="text" name="Height" size="15" style=" height: 20px"/></td>
+			<td style="width: 180px" class="left"><h6 id="INCHES">INCHES</h6></td>
+		</tr>
+		<tr>
+			<td style="width: 180px" class="left"><h4 class="Center">Age: </h4></td>
+			<td style="width: 180px" class="left"><input type="text" name="Age" size="15" style=" height: 20px"/></td>
+			<td style="width: 180px" class="left"><h6 id="YRS">YRS</h6></td>
+		</tr>
+		</table>
+		<table style="width: 100%">
+		<tr>
+			<td style="width: 270px" class="Center">
+			<input id ="ClickB" type="button" value="Calculate" onclick="ClickButton()" style="left: 0px; top: 0px; width: 150px; height: 40px;" /></td>
+			<td style="width: 270px" class="Center">
+			<input id ="ClickB" type="reset" value="Clear" style="left: 0px; top: 0px; width: 150px; height: 40px;" /></td>
+		</tr>
+		</table>
+		
+		<table style="width: 100%">
+		<tr>
+			<td style="width: 180px" class="left"><h4 class="Center">Result: </h4></td>
+			<td style="width: 180px" class="left"><input type="text" name="BMRResult" size="15" style=" height: 20px"/></td>
+			<td style="width: 180px" class="left"><h6>BMR</h6></td>
+		</tr>
+
+            		<tr>
+			<td style="width: 180px" class="left"></td>
+			<td style="width: 180px" class="left"><input type="text" name="Result" size="15" style=" height: 20px"/></td>
+			<td style="width: 180px" class="left"><h6>(TOTAL ENERGY EXPENDITURE)</h6></td>
+		</tr>
+
+	</table>
+
+</form>
+</div>
+
+
+
+  <footer id="Footer">
+	 <p>The Original Harris-Benedict Equation</p>
+	 <h6>For man, P = (13.7516m/1kg + 5.0033h/1cm - 6.75501a/1year + 66.4730)kcal/day</h6>
+	 <h6>For women, P = (9.5634m/1kg + 1.8496h/1cm - 4.6756a/1year + 655.0955)kcal/day</h6>
+	 <li>P = BMR, m = kg, h = cm, a = age</li>
+
+	 <p>&copy; Copyright Gangrae Jo - COMP125 Client-Side Web Development Summer-2018</p>
+	</footer>
+</body>
+
+
+
+</html>
