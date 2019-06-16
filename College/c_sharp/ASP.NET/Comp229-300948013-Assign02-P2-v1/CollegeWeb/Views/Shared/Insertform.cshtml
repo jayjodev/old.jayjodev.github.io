@@ -1,0 +1,81 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model CollegeWeb.Models.Course
+
+<div class="container">
+    <form asp-action="InsertPage" method="post">
+        <div asp-validation-summary="All"></div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="course">Course</label>
+            </div>
+            <div class="col-75">
+                <select id="courses" name="Courses" asp-for="Courses">
+                    <option value="Advanced Database Concepts - COMP 214">Advanced Database Concepts - COMP 214</option>
+                    <option value="Java Programming - COMP 228">Java Programming - COMP 228</option>
+                    <option value="Web Application Development - COMP 229">Web Application Development - COMP 229</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="FirstName" asp-for="FirstName">First Name</label>
+            </div>
+            <div class="col-75">
+                <input type="text" placeholder="First Name" asp-for="FirstName">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="LastName" asp-for="LastName">Last Name</label>
+            </div>
+            <div class="col-75">
+                <input type="text" placeholder="Last Name" asp-for="LastName">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="email" asp-for="Email">E-mail</label>
+            </div>
+            <div class="col-75">
+                <input type="text" placeholder="E-mail" asp-for="Email">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="phone" asp-for="Phone">Phone Number</label>
+            </div>
+            <div class="col-75">
+                <input type="text" placeholder="Phone Number" asp-for="Phone">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25" >
+                <label for="StudentNumber"asp-for="StudentNumber">Student Number</label>
+            </div>
+            <div class="col-75">
+                <input type="text" placeholder="Student Number" asp-for="StudentNumber">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="Password" asp-for="Password">Password</label>
+            </div>
+            <div class="col-75">
+                <input type="password" placeholder="Password" asp-for="Password">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-75">
+                <button type="submit">Save</button>
+            </div>
+            <div class="col-25">
+                <button asp-action="index">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>

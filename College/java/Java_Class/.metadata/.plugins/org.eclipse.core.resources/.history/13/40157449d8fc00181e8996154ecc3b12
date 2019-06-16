@@ -1,0 +1,70 @@
+
+package application;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.scene.control.Alert;
+import javafx.scene.control.TextField;
+import javafx.scene.control.Alert.AlertType;
+import javafx.scene.control.cell.PropertyValueFactory;
+import javafx.scene.control.Button;
+import javafx.scene.control.ChoiceBox;
+import javafx.scene.control.Label;
+import javafx.scene.control.TableColumn;
+import javafx.scene.control.TableView;
+
+public class MainController {
+
+	@FXML TextField _studentId;
+	@FXML TextField _firstName;
+	@FXML TextField _lastName;
+	@FXML TextField _address;
+	@FXML TextField _city;
+	@FXML TextField _province;
+	@FXML TextField _postalcode;
+
+	@FXML TextField _searchID;
+
+	Connection _connection = null;
+
+	public void onSearchClicked(ActionEvent event){ //Action when Search button is clicked
+
+		this._connection = DBConnection.getConnection();
+		int _id = Integer.parseInt(this._searchID.getText());
+
+		try {
+			ResultSet Students_value = this._connection.createStatement().executeQuery(
+					String.format("SELECT * FROM students WHERE address = '%s'", _id));
+
+			this._connection.commit();
+
+			if(Students_value.next()){
+
+				this._studentId.setText(Students_value.getString("studentId"));
+				this._firstName.setText(Students_value.getString("firstname"));
+				this._lastName.setText(Students_value.getString("lastname"));
+				this._address.setText(Students_value.getString("address"));
+				this._city.setText(Students_value.getString("address"));
+				this._province.setText(Students_value.getString("address"));
+				this._postalcode.setText(Students_value.getString("address"));
+
+
+			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		finally{
+			DBConnection.closeConnection();
+		}
+	}
+}

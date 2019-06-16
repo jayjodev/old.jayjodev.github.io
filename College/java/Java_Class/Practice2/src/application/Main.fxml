@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="527.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainController">
+   <children>
+      <Text layoutX="83.0" layoutY="74.0" strokeType="OUTSIDE" strokeWidth="0.0" text="id" />
+      <Text layoutX="83.0" layoutY="104.0" strokeType="OUTSIDE" strokeWidth="0.0" text="title" />
+      <Text layoutX="83.0" layoutY="134.0" strokeType="OUTSIDE" strokeWidth="0.0" text="firstname" />
+      <Text layoutX="83.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="lastnamge" />
+      <TextField fx:id="_userId" layoutX="141.0" layoutY="56.0" />
+      <TextField fx:id="_testTitle" layoutX="141.0" layoutY="95.0" />
+      <TextField fx:id="_firstName" layoutX="155.0" layoutY="125.0" />
+      <TextField fx:id="_lastName" layoutX="155.0" layoutY="158.0" />
+      <TextField fx:id="_searchID" layoutX="386.0" layoutY="29.0" />
+      <Text layoutX="322.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="search" />
+      <TextField fx:id="_updateuserId" layoutX="411.0" layoutY="95.0" />
+      <TextField fx:id="_updatetestTitle" layoutX="411.0" layoutY="145.0" />
+      <TextField fx:id="_updatefirstName" layoutX="411.0" layoutY="187.0" />
+      <TextField fx:id="_updatelastName" layoutX="411.0" layoutY="231.0" />
+      <Text layoutX="342.0" layoutY="113.0" strokeType="OUTSIDE" strokeWidth="0.0" text="U_id" />
+      <Text layoutX="342.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="U_title" />
+      <Text layoutX="324.0" layoutY="200.0" strokeType="OUTSIDE" strokeWidth="0.0" text="U_firstname" />
+      <Text layoutX="324.0" layoutY="244.0" strokeType="OUTSIDE" strokeWidth="0.0" text="U_lastname" />
+      <Button layoutX="455.0" layoutY="273.0" mnemonicParsing="false" onAction="#onUpdateClicked" text="Update" />
+      <Button layoutX="195.0" layoutY="218.0" mnemonicParsing="false" onAction="#onSaveClicked" text="Save" />
+      <Button layoutX="549.0" layoutY="29.0" mnemonicParsing="false" onAction="#onSearchClicked" text="search" />
+      <TableView fx:id="table" layoutX="64.0" layoutY="273.0" prefHeight="200.0" prefWidth="308.0">
+        <columns>
+          <TableColumn fx:id="table_Id" prefWidth="75.0" text="id" />
+          <TableColumn fx:id="table_title" prefWidth="75.0" text="title" />
+            <TableColumn fx:id="table_FirstName" prefWidth="75.0" text="firstname" />
+            <TableColumn fx:id="table_LastName" prefWidth="75.0" text="lastname" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

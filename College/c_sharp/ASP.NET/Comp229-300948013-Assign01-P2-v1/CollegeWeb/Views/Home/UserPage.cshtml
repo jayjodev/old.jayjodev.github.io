@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "My Course List";
+}
+
+<div id="sidecontent">
+    <img src="~/images/Centennial_A.PNG" width="200" />
+</div>
+
+<div id="maincontent">
+
+    <h3>2018 Fall Time My Course List</h3>
+    <hr>
+    <table style="width:100%">
+        <tr>
+            <th style="width: 20%">Number</th>
+            <th style="width: 20%">Course</th>
+            <th style="width: 20%">Professor</th>
+            <th style="width: 20%">Hours per week</th>
+            <th style="width: 20%">Edit course</th>
+
+        </tr>
+    </table>
+    <hr />
+    <table style="width:100%">
+        <tr>
+            <td style="width: 20%">1</td>
+            <td style="width: 20%">This is default! Web Application Development</td>
+            <td style="width: 20%">Jake Nesovic</td>
+            <td style="width: 20%">4</td>
+            <td style="width: 20%">
+                <label for="Id"><b>Student number</b></label><br />
+                <input type="text" placeholder="Enter student number" name="Student number" required><br />
+                <label for="Password"><b>Password</b></label><br />
+                <input type="password" placeholder="Enter Password" name="Password" required> <br />
+                <button type="submit" class="registerbtn">Delete Course</button>
+            </td>
+        </tr>
+    </table>
+    <hr>
+</div>

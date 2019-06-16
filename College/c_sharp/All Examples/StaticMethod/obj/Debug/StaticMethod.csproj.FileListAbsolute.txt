@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\StaticMethod\bin\Debug\StaticMethod.exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\StaticMethod\bin\Debug\StaticMethod.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\StaticMethod\bin\Debug\StaticMethod.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\StaticMethod\obj\Debug\StaticMethod.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\StaticMethod\obj\Debug\StaticMethod.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\StaticMethod\obj\Debug\StaticMethod.pdb

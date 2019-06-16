@@ -1,0 +1,40 @@
+﻿@model IEnumerable<CollegeWeb.Models.Course>
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Display Course";
+}
+
+
+<div id="sidecontent">
+    <img src="~/images/Centennial.PNG" />
+</div>
+
+
+<div id="maincontent">
+
+    <h3>Registration information</h3>
+    <hr>
+
+
+    <div class="container">
+        <div class="row">
+
+            @foreach (CollegeWeb.Models.Course r in Model)
+            {
+
+            <div class="col-md-4">
+
+                <h4>@r.CourseName</h4>
+                <h5>Course Id: @r.CourseId</h5>
+                <h5>Seasion: @r.Season</h5>
+                <h5>Faculty: @r.Faculty</h5>
+                <h5>Coure code: @r.Code</h5>
+                <form method="post">
+                    <button class="btn-outline-primary btn-lg btn-block" asp-action="DataPage" asp-controller="Home" asp-route-id="@r.CourseId">View details &raquo;</button>
+                </form>
+            </div>
+            }
+        </div>
+    </div>
+</div>

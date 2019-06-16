@@ -1,0 +1,12 @@
+package application;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.TextField;
+
+public class Model {
+
+
+	String _mstudentId, _mfirstName, _mlastName, _maddress,_mcity,_mprovince,_mpostalcode; //DataBase attributes
+
+
+}

@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 2)\bin\Debug\Write a Text File (Example 2).exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 2)\bin\Debug\Write a Text File (Example 2).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 2)\bin\Debug\Write a Text File (Example 2).pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 2)\obj\Debug\Write a Text File (Example 2).csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 2)\obj\Debug\Write a Text File (Example 2).csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 2)\obj\Debug\Write a Text File (Example 2).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 2)\obj\Debug\Write a Text File (Example 2).pdb

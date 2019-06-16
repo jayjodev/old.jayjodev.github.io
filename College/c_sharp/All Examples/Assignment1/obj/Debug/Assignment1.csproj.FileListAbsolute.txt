@@ -1,0 +1,6 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Assignment1\obj\Debug\Assignment1.pdb

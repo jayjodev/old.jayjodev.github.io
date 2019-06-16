@@ -1,0 +1,76 @@
+package application;
+
+public class Model {
+
+	String _mstudentId, _mfirstName, _mlastName, _maddress,_mcity,_mprovince,_mpostalcode; //DataBase attributes
+
+	public Model(String _mstudentId, String _mfirstName, String _mlastName, String _maddress, String _mcity,
+			String _mprovince, String _mpostalcode) {
+		super();
+		this._mstudentId = _mstudentId;
+		this._mfirstName = _mfirstName;
+		this._mlastName = _mlastName;
+		this._maddress = _maddress;
+		this._mcity = _mcity;
+		this._mprovince = _mprovince;
+		this._mpostalcode = _mpostalcode;
+	}
+
+	public String get_mstudentId() {
+		return _mstudentId;
+	}
+
+	public void set_mstudentId(String _mstudentId) {
+		this._mstudentId = _mstudentId;
+	}
+
+	public String get_mfirstName() {
+		return _mfirstName;
+	}
+
+	public void set_mfirstName(String _mfirstName) {
+		this._mfirstName = _mfirstName;
+	}
+
+	public String get_mlastName() {
+		return _mlastName;
+	}
+
+	public void set_mlastName(String _mlastName) {
+		this._mlastName = _mlastName;
+	}
+
+	public String get_maddress() {
+		return _maddress;
+	}
+
+	public void set_maddress(String _maddress) {
+		this._maddress = _maddress;
+	}
+
+	public String get_mcity() {
+		return _mcity;
+	}
+
+	public void set_mcity(String _mcity) {
+		this._mcity = _mcity;
+	}
+
+	public String get_mprovince() {
+		return _mprovince;
+	}
+
+	public void set_mprovince(String _mprovince) {
+		this._mprovince = _mprovince;
+	}
+
+	public String get_mpostalcode() {
+		return _mpostalcode;
+	}
+
+	public void set_mpostalcode(String _mpostalcode) {
+		this._mpostalcode = _mpostalcode;
+	}
+
+
+}

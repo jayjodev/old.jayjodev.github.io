@@ -1,0 +1,24 @@
+﻿@model CollegeWeb.Models.Course
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Registered students";
+
+}
+<div id="sidecontent">
+    <img src="~/images/Centennial_image.PNG" width="200" />
+</div>
+
+<div class="container">
+    <h2>Course Name: @Model.CourseName</h2>
+    <h5>Course Code: @Model.Code</h5>
+    <h5>Course Faculty: @Model.Faculty</h5>
+    <h5>Course Season: @Model.Season</h5>
+
+    <a class="btn-outline-primary btn-lg btn-block" asp-action="Update" asp-controller="Home" asp-route-id="@Model.CourseId">Update &raquo;</a>
+    <a class="btn-outline-danger btn-lg btn-block" asp-action="Delete" >Delete &raquo;</a>
+</div>
+
+<div class="container">
+    <a class="btn btn-primary my-2" asp-action="AddStudent">Enroll Students</a>
+</div>

@@ -1,0 +1,18 @@
+﻿@model CollegeWeb.Models.Course
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Display Course";
+}
+
+
+<div id="sidecontent">
+    <img src="~/images/Centennial.PNG" width="200" />
+</div>
+
+<div id="maincontent">
+    <h2>Thanks for Registration</h2>
+    <p>Thank you, @Model.LastName!</p>
+    <p>Studnet Number:  @Model.StudentNumber</p>
+    <p>You selected @Model.Courses</p>
+</div>
+

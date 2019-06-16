@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface(Basic)\bin\Debug\Interface(Basic).exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface(Basic)\bin\Debug\Interface(Basic).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface(Basic)\bin\Debug\Interface(Basic).pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface(Basic)\obj\Debug\Interface(Basic).csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface(Basic)\obj\Debug\Interface(Basic).csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface(Basic)\obj\Debug\Interface(Basic).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface(Basic)\obj\Debug\Interface(Basic).pdb

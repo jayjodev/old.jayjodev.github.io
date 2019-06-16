@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Exceptionhanding\bin\Debug\Exceptionhanding.exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Exceptionhanding\bin\Debug\Exceptionhanding.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Exceptionhanding\bin\Debug\Exceptionhanding.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Exceptionhanding\obj\Debug\Exceptionhanding.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Exceptionhanding\obj\Debug\Exceptionhanding.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Exceptionhanding\obj\Debug\Exceptionhanding.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Exceptionhanding\obj\Debug\Exceptionhanding.pdb

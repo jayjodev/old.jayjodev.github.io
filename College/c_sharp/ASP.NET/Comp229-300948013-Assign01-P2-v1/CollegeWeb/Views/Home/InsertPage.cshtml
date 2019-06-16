@@ -1,0 +1,67 @@
+﻿
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Register New Course";
+
+}
+
+<div id="sidecontent">
+    <img src="~/images/Logo.PNG" width="200" />
+</div>
+
+<div id="maincontent">
+    <h3>2018 Fall Courses</h3>
+    <form style="width:100%">
+        <div>
+            <h5>Please fill in this form to register.</h5>
+            <label for="Course"><b>Course</b></label>
+            <br />
+            <select style="width:25%">
+                <option value="COMP 214">Advanced Database Concepts - COMP 214</option>
+                <option value="COMP 228">Java Programming - COMP 228</option>
+                <option value="COMP 229">Web Application Development - COMP 229</option>
+                <option value="More Course">100 Courses Coming Soon!</option>
+            </select>
+            <br />
+            <label for="Id"><b>Student number</b></label>
+            <br />
+            <input type="text" style="width:25%" placeholder="Student number" name="Course" required>
+            <br />
+            <label for="Password"><b>Password</b></label>
+            <br />
+            <input style="width:25%" type="password" placeholder="Enter Password" name="Password" required>
+            <br />
+            <button type="submit" class="registerbtn">Register</button>
+        </div>
+    </form>
+
+    <br />
+    <br />
+    <hr>
+    <table style="width:100%">
+        <tr>
+            <th>Courses</th>
+            <th>Professor</th>
+            <th>About Courses</th>
+        </tr>
+        <tr>
+            <td>Advanced Database Concepts - COMP 214</td>
+            <td>Vijayalakshmi Tiruchengode Angamuthu</td>
+            <td>This course is intended to expand student's knowledge of business database systems
+            <td>
+        </tr>
+        <tr>
+            <td>Java Programming - COMP 228</td>
+            <td>Elmira Adeeb</td>
+            <td>Building on fundamentals of Object-Oriented programming, this course covers Component-based Application Development and Database Connectivity using the Java programming language. </td>
+        </tr>
+        <tr>
+            <td>Web Application Development - COMP 229</td>
+            <td>Jake Nesovic </td>
+            <td>Web Application Development is the second course in a sequence of courses, following COMP213 and COMP 125 and preceding a range of advanced elective Web applications and Web services courses, designed to teach students all the important current concepts and technologies related to developing powerful Internet enterprise applications. </td>
+        </tr>
+    </table>
+    <hr>
+
+
+</div>

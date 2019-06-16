@@ -1,0 +1,81 @@
+package application;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.TextField;
+
+public class Model {
+
+
+	String _studentId, _firstName, _lastName, _address,_city,_province,_postalcode; //DataBase attributes
+
+	public Model(String _studentId, String _firstName, String _lastName, String _address, String _city,
+			String _province, String _postalcode) {
+		super();
+		this._studentId = _studentId;
+		this._firstName = _firstName;
+		this._lastName = _lastName;
+		this._address = _address;
+		this._city = _city;
+		this._province = _province;
+		this._postalcode = _postalcode;
+	}
+
+	public String get_studentId() {
+		return _studentId;
+	}
+
+	public void set_studentId(String _studentId) {
+		this._studentId = _studentId;
+	}
+
+	public String get_firstName() {
+		return _firstName;
+	}
+
+	public void set_firstName(String _firstName) {
+		this._firstName = _firstName;
+	}
+
+	public String get_lastName() {
+		return _lastName;
+	}
+
+	public void set_lastName(String _lastName) {
+		this._lastName = _lastName;
+	}
+
+	public String get_address() {
+		return _address;
+	}
+
+	public void set_address(String _address) {
+		this._address = _address;
+	}
+
+	public String get_city() {
+		return _city;
+	}
+
+	public void set_city(String _city) {
+		this._city = _city;
+	}
+
+	public String get_province() {
+		return _province;
+	}
+
+	public void set_province(String _province) {
+		this._province = _province;
+	}
+
+	public String get_postalcode() {
+		return _postalcode;
+	}
+
+	public void set_postalcode(String _postalcode) {
+		this._postalcode = _postalcode;
+	}
+
+
+
+}

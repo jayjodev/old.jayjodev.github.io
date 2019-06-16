@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\CodeforFranndy\bin\Debug\CodeforFranndy.exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\CodeforFranndy\bin\Debug\CodeforFranndy.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\CodeforFranndy\bin\Debug\CodeforFranndy.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\CodeforFranndy\obj\Debug\CodeforFranndy.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\CodeforFranndy\obj\Debug\CodeforFranndy.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\CodeforFranndy\obj\Debug\CodeforFranndy.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\CodeforFranndy\obj\Debug\CodeforFranndy.pdb

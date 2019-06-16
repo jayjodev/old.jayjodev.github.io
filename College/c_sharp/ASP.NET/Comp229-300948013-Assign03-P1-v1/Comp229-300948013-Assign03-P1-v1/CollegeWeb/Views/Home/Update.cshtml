@@ -1,0 +1,62 @@
+﻿
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Update";
+}
+
+@model CollegeWeb.Models.Course
+
+<div class="col-md-8 order-md-1">
+    <form asp-action="Update" method="post">
+        <div asp-validation-summary="All"></div>
+        <h4 class="mb-3">College Registration</h4>
+
+        <div class="mb-3">
+            <label asp-for="CourseName">Course Name</label>
+            <div class="input-group">
+                <input asp-for="CourseName" type="text" class="form-control" placeholder="Course Name">
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Code">Course Code</label>
+            <div class="input-group">
+                <input asp-for="Code" type="text" class="form-control" placeholder="Course Code">
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Faculty">Faculty</label>
+            <div class="input-group">
+                <input asp-for="Faculty" type="text" class="form-control" placeholder="Faculty">
+            </div>
+        </div>
+
+        <h4 class="mb-3">Status</h4>
+
+        <hr class="mb-4">
+        <div class="d-block my-3">
+            <label asp-for="Season">Select course </label>
+            <div class="custom-control custom-radio">
+                <input asp-for="Season" value="winter" id="winter" name="Season" type="radio" class="custom-control-input" checked>
+                <label asp-for="Season" class="custom-control-label" for="winter">winter</label>
+            </div>
+            <div class="custom-control custom-radio">
+                <input asp-for="Season" value="summer" id="summer" name="Season" type="radio" class="custom-control-input">
+                <label asp-for="Season" class="custom-control-label" for="summer">summer</label>
+            </div>
+            <div class="custom-control custom-radio">
+                <input asp-for="Season" value="Fall" id="Fall" name="Season" type="radio" class="custom-control-input">
+                <label asp-for="Season" class="custom-control-label" for="Fall">Fall</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-75">
+                <button class="btn btn-primary btn-lg btn-block" type="submit">Update</button>
+            </div>
+            <div class="col-25">
+                <button class="btn btn-danger btn-lg btn-block" asp-action="index">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>

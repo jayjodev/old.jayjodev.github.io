@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>
+        @ViewData["Title"]
+    </title>
+    <link href="~/css/Styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="center">
+    </div>
+
+    <div id="title">
+        @ViewData["Title"]
+    </div>
+    <ul id="nav">
+        <li><a asp-action="index">Home</a></li>
+        <li><a asp-action="InsertPage">Register New Course</a></li>
+        <li><a asp-action="DisplayPage">My Timetable</a></li>
+        <li><a asp-action="UserPage">My Course List</a></li>
+        <li><a asp-action="DataPage">Data</a></li>
+    </ul>
+
+    @RenderBody()
+
+    <div id="footer">
+        <div id="copyrightdesign">
+            Copyright &copy; 2018 Fall ASP.NET Gangrae Jo
+        </div>
+    </div>
+</body>
+</html>

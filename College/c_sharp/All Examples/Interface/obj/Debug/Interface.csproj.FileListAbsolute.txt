@@ -1,0 +1,6 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface\bin\Debug\Interface.exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface\bin\Debug\Interface.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface\bin\Debug\Interface.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface\obj\Debug\Interface.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Interface\obj\Debug\Interface.pdb

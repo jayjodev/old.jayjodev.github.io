@@ -1,0 +1,189 @@
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/CollegeWeb/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P1-v2/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/COMP_229 Web Application Development/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign01-P2-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.deps.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.runtimeconfig.dev.json
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/bin/Debug/netcoreapp2.0/CollegeWeb.pdb
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csprojAssemblyReference.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.csproj.CoreCompileInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfoInputs.cache
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.AssemblyInfo.cs
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+C:/Users/Jay Jo/Desktop/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+/Volumes/JO 1/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.dll
+/Volumes/JO 1/ASP_Course/Comp229-300948013-Assign02-P1-v1/CollegeWeb/obj/Debug/netcoreapp2.0/CollegeWeb.pdb
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+D:\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P1-v2\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign02-P2-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+D:\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.deps.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.runtimeconfig.dev.json
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.dll
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\bin\Debug\netcoreapp2.0\CollegeWeb.pdb
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csprojAssemblyReference.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfoInputs.cache
+C:\Users\Jay Jo\Desktop\ASP_Course\Assignment\Comp229-300948013-Assign03-P1-v1\Comp229-300948013-Assign03-P1-v1\CollegeWeb\obj\Debug\netcoreapp2.0\CollegeWeb.AssemblyInfo.cs

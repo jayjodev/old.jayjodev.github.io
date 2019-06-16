@@ -1,0 +1,14 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Read a Text file\bin\Debug\Read a Text file.exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Read a Text file\bin\Debug\Read a Text file.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Read a Text file\bin\Debug\Read a Text file.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Read a Text file\obj\Debug\Read a Text file.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Read a Text file\obj\Debug\Read a Text file.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Read a Text file\obj\Debug\Read a Text file.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Read a Text file\obj\Debug\Read a Text file.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Read a Text file\bin\Debug\Read a Text file.exe.config
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Read a Text file\bin\Debug\Read a Text file.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Read a Text file\bin\Debug\Read a Text file.pdb
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Read a Text file\obj\Debug\Read a Text file.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Read a Text file\obj\Debug\Read a Text file.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Read a Text file\obj\Debug\Read a Text file.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Read a Text file\obj\Debug\Read a Text file.pdb

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;application.KeyboardAppOOP.java&apos; to &apos;ValidatedKeyboardApp.java&apos;&#x0A;- Original project: &apos;ValidatedKeyboardAppOOP&apos;&#x0A;- Original element: &apos;application.KeyboardAppOOP.java&apos;&#x0A;- Renamed element: &apos;application.ValidatedKeyboardApp.java&apos;" description="Rename compilation unit &apos;KeyboardAppOOP.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;application{KeyboardAppOOP.java" name="ValidatedKeyboardApp.java" references="false" stamp="1542670764182" version="1.0"/>
+</session>

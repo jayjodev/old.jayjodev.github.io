@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="503.0" prefWidth="664.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.GameController">
+   <children>
+      <Label layoutX="265.0" layoutY="4.0" text="Game Registration" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="281.0" layoutY="129.0" text="Player Information" textFill="WHITE" />
+      <Separator layoutY="104.0" prefHeight="28.0" prefWidth="664.0" />
+      <Label layoutX="14.0" layoutY="52.0" text="Game Title" textFill="WHITE" />
+      <TextField fx:id="_gameTitle" layoutX="95.0" layoutY="47.0" opacity="0.36" prefHeight="27.0" prefWidth="471.0" promptText="Enter a title..." />
+      <Label layoutX="161.0" layoutY="192.0" text="First name" textFill="WHITE" />
+      <Label layoutX="162.0" layoutY="225.0" text="Last name" textFill="WHITE" />
+      <Label layoutX="164.0" layoutY="259.0" text="Address" textFill="WHITE" />
+      <Label layoutX="155.0" layoutY="375.0" text="Phone number" textFill="WHITE" />
+      <TextField fx:id="_firstName" layoutX="263.0" layoutY="187.0" />
+      <TextField fx:id="_Address" layoutX="263.0" layoutY="254.0" />
+      <TextField fx:id="_lastName" layoutX="263.0" layoutY="220.0" />
+      <TextField fx:id="_postalCode" layoutX="263.0" layoutY="292.0" />
+      <TextField fx:id="_phoneNumber" layoutX="263.0" layoutY="370.0" />
+      <Label layoutX="164.0" layoutY="300.0" text="Postal code" textFill="WHITE" />
+      <Button layoutX="302.0" layoutY="462.0" mnemonicParsing="false" onAction="#onSaveClicked" prefHeight="27.0" prefWidth="90.0" text="Save" textFill="WHITE" />
+      <Label layoutX="166.0" layoutY="335.0" text="Province" textFill="WHITE" />
+      <Label layoutX="14.0" layoutY="92.0" text="Score" textFill="WHITE" />
+      <TextField fx:id="_score" layoutX="95.0" layoutY="87.0" opacity="0.36" prefHeight="28.0" prefWidth="28.0">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <font>
+            <Font name="Apple SD Gothic Neo Regular" size="10.0" />
+         </font>
+      </TextField>
+      <Button fx:id="_backButton" layoutX="18.0" layoutY="11.0" mnemonicParsing="false" onAction="#onBackClicked" style="-fx-background: none; -fx-padding: 0; -fx-border: none;" text="&lt;- Back" textFill="WHITE" />
+      <ChoiceBox fx:id="_province" layoutX="262.0" layoutY="330.0" prefHeight="27.0" prefWidth="167.0" />
+   </children>
+</AnchorPane>

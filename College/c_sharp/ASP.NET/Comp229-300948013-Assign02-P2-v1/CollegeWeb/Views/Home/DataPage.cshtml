@@ -1,0 +1,42 @@
+﻿@model IEnumerable<CollegeWeb.Models.Course>
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Registered students";
+
+}
+
+<div id="sidecontent">
+    <img src="~/images/Centennial_image.PNG" width="200" />
+</div>
+
+<div id="maincontent">
+
+    <h3>Registration information</h3>
+    <hr>
+    <table style="width:100%">
+        <tr>
+            <th style="width: 16.66%">Course</th>
+            <th style="width: 16.66%">First Name</th>
+            <th style="width: 16.66%">Last Name</th>
+            <th style="width: 16.66%">E-mail</th>
+            <th style="width: 16.66%">Phone Number</th>
+            <th style="width: 16.66%">Student Number</th>
+    </table>
+    <hr />
+
+    @foreach (CollegeWeb.Models.Course r in Model)
+    {
+        <hr>
+        <table style="width:100%">
+            <tr>
+                <th style="width: 16.66%">@r.Courses</th>
+                <th style="width: 16.66%">@r.FirstName</th>
+                <th style="width: 16.66%">@r.LastName</th>
+                <th style="width: 16.66%">@r.Email</th>
+                <th style="width: 16.66%">@r.Phone</th>
+                <th style="width: 16.66%">@r.StudentNumber</th>
+        </table>
+        <hr />
+    }
+    <hr>
+</div>

@@ -1,0 +1,6 @@
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofDictionary\bin\Debug\ExampleofDictionary.exe.config
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofDictionary\bin\Debug\ExampleofDictionary.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofDictionary\bin\Debug\ExampleofDictionary.pdb
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofDictionary\obj\Debug\ExampleofDictionary.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofDictionary\obj\Debug\ExampleofDictionary.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofDictionary\obj\Debug\ExampleofDictionary.pdb

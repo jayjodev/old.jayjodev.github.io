@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Programming2\All Examples\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\zptdp\Desktop\Programming2\All Examples\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\zptdp\Desktop\Programming2\All Examples\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\zptdp\Desktop\Programming2\All Examples\ArrayList\obj\Debug\TestArray.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Programming2\All Examples\ArrayList\obj\Debug\TestArray.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Programming2\All Examples\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\zptdp\Desktop\Programming2\All Examples\ArrayList\obj\Debug\ArrayList.pdb

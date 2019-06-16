@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Programing\bin\Debug\Programing.exe.config
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Programing\bin\Debug\Programing.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Programing\bin\Debug\Programing.pdb
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Programing\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Programing\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Programing\obj\Debug\Programing.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Programing\obj\Debug\Programing.pdb

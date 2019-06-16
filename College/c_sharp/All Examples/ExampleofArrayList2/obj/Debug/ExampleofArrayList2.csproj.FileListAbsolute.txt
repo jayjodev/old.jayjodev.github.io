@@ -1,0 +1,6 @@
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofArrayList2\bin\Debug\ExampleofArrayList2.exe.config
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofArrayList2\bin\Debug\ExampleofArrayList2.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofArrayList2\bin\Debug\ExampleofArrayList2.pdb
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofArrayList2\obj\Debug\ExampleofArrayList2.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofArrayList2\obj\Debug\ExampleofArrayList2.exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\ExampleofArrayList2\obj\Debug\ExampleofArrayList2.pdb

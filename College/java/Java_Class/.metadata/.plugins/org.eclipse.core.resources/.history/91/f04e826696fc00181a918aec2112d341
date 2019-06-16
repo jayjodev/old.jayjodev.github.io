@@ -1,0 +1,9 @@
+package application;
+
+public class Model {
+
+
+	String _testtitle, _id, _firstName, _lastName; //DataBase attributes
+
+
+}

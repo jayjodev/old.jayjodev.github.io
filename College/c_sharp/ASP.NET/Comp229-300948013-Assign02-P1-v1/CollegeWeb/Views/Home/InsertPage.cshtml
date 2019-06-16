@@ -1,0 +1,117 @@
+﻿
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Register New Course";
+}
+
+<link href="~/css/Styles.css" rel="stylesheet" />
+
+<div id="sidecontent">
+    <img src="~/images/Logo.PNG" width="200" />
+</div>
+<div id="maincontent">
+    @Html.Partial("Insertform")
+
+    <div class="container">
+        <form action="action_page.php">
+
+            <div class="row">
+                <div class="col-25">
+                    <label for="course">Course</label>
+                </div>
+                <div class="col-75">
+                    <select id="course" name="Course">
+                        <option value="COMP 214">Advanced Database Concepts - COMP 214</option>
+                        <option value="COMP 228">Java Programming - COMP 228</option>
+                        <option value="COMP 229">Web Application Development - COMP 229</option>
+                        <option value="More Course">100 Courses Coming Soon!</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="FirstName">First Name</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" placeholder="First Name">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="LastName">Last Name</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" placeholder="Last Name">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="email">E-mail</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" placeholder="E-mail">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="phone">Phone Number</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" placeholder="Phone Number">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-25">
+                    <label for="StudentNumber">Student Number</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" placeholder="Student Number">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="Password">Password</label>
+                </div>
+                <div class="col-75">
+                    <input type="password" placeholder="Password">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-75">
+                    <button type="submit">Save</button>
+                </div>
+                <div class="col-25">
+                    <button asp-action="index">Cancel</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+    <br />
+    <hr>
+    <table style="width:100%">
+        <tr>
+            <th>Courses</th>
+            <th>Professor</th>
+            <th>About Courses</th>
+        </tr>
+        <tr>
+            <td>Advanced Database Concepts - COMP 214</td>
+            <td>Vijayalakshmi Tiruchengode Angamuthu</td>
+            <td>This course is intended to expand student's knowledge of business database systems
+            <td>
+        </tr>
+        <tr>
+            <td>Java Programming - COMP 228</td>
+            <td>Elmira Adeeb</td>
+            <td>Building on fundamentals of Object-Oriented programming, this course covers Component-based Application Development and Database Connectivity using the Java programming language. </td>
+        </tr>
+        <tr>
+            <td>Web Application Development - COMP 229</td>
+            <td>Jake Nesovic </td>
+            <td>Web Application Development is the second course in a sequence of courses, following COMP213 and COMP 125 and preceding a range of advanced elective Web applications and Web services courses, designed to teach students all the important current concepts and technologies related to developing powerful Internet enterprise applications. </td>
+        </tr>
+    </table>
+    <hr />
+</div>

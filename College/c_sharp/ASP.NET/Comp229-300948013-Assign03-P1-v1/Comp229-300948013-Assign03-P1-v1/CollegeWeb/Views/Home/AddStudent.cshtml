@@ -1,0 +1,52 @@
+﻿
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Add Students";
+}
+
+
+
+@model CollegeWeb.Models.Student
+
+<div class="col-md-8 order-md-1">
+    <form asp-action="UserPage" method="post">
+        <div asp-validation-summary="All"></div>
+        <h4 class="mb-3">College Registration</h4>
+
+        <div class="mb-3">
+            <label asp-for="StudentID">Student ID</label>
+            <div class="input-group">
+                <input asp-for="StudentID" type="text" class="form-control" placeholder="Student ID">
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Name">Student Name</label>
+            <div class="input-group">
+                <input asp-for="Name" type="text" class="form-control" placeholder="Student Name">
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Phone">Phone</label>
+            <div class="input-group">
+                <input asp-for="Phone" type="text" class="form-control" placeholder="Phone">
+            </div>
+        </div>
+        <div class="mb-3">
+            <label asp-for="CourseId">Course Id</label>
+            <div class="input-group">
+                <input asp-for="CourseId" type="text" class="form-control" placeholder="Course Id">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-75">
+                <button class="btn btn-primary btn-lg btn-block" type="submit">Save</button>
+            </div>
+            <div class="col-25">
+                <button class="btn btn-danger btn-lg btn-block" asp-action="index">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>

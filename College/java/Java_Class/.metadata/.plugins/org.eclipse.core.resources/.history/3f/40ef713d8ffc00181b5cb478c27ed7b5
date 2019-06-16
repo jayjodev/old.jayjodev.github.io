@@ -1,0 +1,84 @@
+package application;
+
+/*Represent the database model object.*/
+
+public class Model { //This class contains all of the values.
+
+	String _gameID, _playerID, _firstName, _lastName, _gameTitle, _score, _date, _fullName; //DataBase attributes
+
+	public String get_gameTitle() {
+		return _gameTitle;
+	}
+
+	public void set_gameTitle(String _gameTitle) {
+		this._gameTitle = _gameTitle;
+	}
+
+	public ModelTable(String _gameID, String _playerID, String _firstName, String _lastName, String _gameTitle, String _score, String _date){
+		this._gameID = _gameID;
+		this._playerID = _playerID;
+		this._firstName = _firstName;
+		this._lastName = _lastName;
+		this._score = _score;
+		this._gameTitle = _gameTitle;
+		this._date = _date;
+		this._fullName = _firstName + " " + _lastName;
+	}
+
+	public String get_lastName() {
+		return _lastName;
+	}
+
+	public void set_lastName(String _lastName) {
+		this._lastName = _lastName;
+	}
+
+	public String get_fullName() {
+		return _fullName;
+	}
+
+	public void set_fullName(String _fullName) {
+		this._fullName = _fullName;
+	}
+
+	public String get_date() {
+		return _date;
+	}
+
+	public void set_date(String _date) {
+		this._date = _date;
+	}
+
+	public String get_gameID() {
+		return _gameID;
+	}
+
+	public void set_gameID(String _gameID) {
+		this._gameID = _gameID;
+	}
+
+	public String get_playerID() {
+		return _playerID;
+	}
+
+	public void set_playerID(String _playerID) {
+		this._playerID = _playerID;
+	}
+
+	public String get_firstName() {
+		return _firstName;
+	}
+
+	public void set_firstName(String _firstName) {
+		this._firstName = _firstName;
+	}
+
+	public String get_score() {
+		return _score;
+	}
+
+	public void set_score(String _score) {
+		this._score = _score;
+
+	}
+}

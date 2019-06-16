@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="476.0" prefWidth="667.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ReportController">
+   <children>
+      <Label layoutX="286.0" layoutY="14.0" text="REPORTS" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TableView fx:id="table" editable="true" layoutY="57.0" prefHeight="418.0" prefWidth="667.0">
+        <columns>
+          <TableColumn fx:id="col_playerID" prefWidth="67.0" text="player_id" />
+          <TableColumn fx:id="col_gameID" prefWidth="71.0" text="game_id" />
+            <TableColumn fx:id="col_player" prefWidth="168.0" text="player" />
+            <TableColumn fx:id="col_game" minWidth="9.0" prefWidth="184.0" text="game" />
+            <TableColumn fx:id="col_score" minWidth="0.0" prefWidth="54.0" text="score" />
+            <TableColumn fx:id="col_date" prefWidth="98.0" text="date" />
+        </columns>
+      </TableView>
+      <Button fx:id="_backButton" layoutX="14.0" layoutY="17.0" mnemonicParsing="false" onAction="#onBackClicked" style="-fx-background: none; -fx-padding: 0; -fx-background-color: none;" text="&lt;- Back" />
+      <Button layoutX="561.0" layoutY="12.0" mnemonicParsing="false" onAction="#onSearchClicked" text="Search" />
+      <TextField fx:id="_searchID" layoutX="234.0" layoutY="12.0" prefHeight="27.0" prefWidth="311.0" promptText="Search by ID..." />
+   </children>
+</AnchorPane>

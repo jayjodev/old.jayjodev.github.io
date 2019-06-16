@@ -1,0 +1,51 @@
+package application;
+
+public class TestModel {
+
+	private String userid;
+	private String firstname;
+	private String lastname;
+	private String testtitle;
+
+	public TestModel(String userid, String firstname, String lastname, String testtitle) {
+		super();
+		this.userid = userid;
+		this.firstname = firstname;
+		this.lastname = lastname;
+		this.testtitle = testtitle;
+	}
+
+	public String getUserid() {
+		return userid;
+	}
+
+	public void setUserid(String userid) {
+		this.userid = userid;
+	}
+
+	public String getFirstname() {
+		return firstname;
+	}
+
+	public void setFirstname(String firstname) {
+		this.firstname = firstname;
+	}
+
+	public String getLastname() {
+		return lastname;
+	}
+
+	public void setLastname(String lastname) {
+		this.lastname = lastname;
+	}
+
+	public String getTesttitle() {
+		return testtitle;
+	}
+
+	public void setTesttitle(String testtitle) {
+		this.testtitle = testtitle;
+	}
+
+
+}

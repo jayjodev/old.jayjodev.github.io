@@ -1,0 +1,70 @@
+package application;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.scene.control.Alert;
+import javafx.scene.control.TextField;
+import javafx.scene.control.Alert.AlertType;
+import javafx.scene.control.Button;
+import javafx.scene.control.ChoiceBox;
+
+public class MainController {
+	@FXML TextField _testTitle;
+	@FXML TextField _firstName;
+	@FXML TextField _lastName;
+
+	Connection _connection = null;
+
+	public void onSaveClicked(ActionEvent event){
+		Statement stmt = null;
+
+		ResultSet exists; //Avoid data redundancy.
+
+
+		try{
+			this._connection = DBConnection.getConnection();
+
+				stmt = this._connection.createStatement();
+
+				//Player  Info.
+				String firstName = this._firstName.getText();
+				String lastName = this._lastName.getText();
+				String TestTitle = this._testTitle.getText();
+
+				//String sql_exists= String.format("select * from game where title = '%s'", TestTitle);
+				//exists=stmt.executeQuery(sql_exists);
+				//if(!exists.next()){
+					//Creates the first player
+					System.out.println("--INSERTING VALUES INTO PLAYER TABLE--");
+					stmt.executeUpdate(String.format("INSERT INTO Test (title, firstname, lastname) "
+							+ "VALUES (%s, '%s', '%s')",TestTitle, firstName, lastName ));
+					System.out.println("--DONE--");
+
+					this._connection.commit();
+					Alert alert =  new Alert(AlertType.INFORMATION, "Test information added");
+					alert.showAndWait();
+				//}
+				//else{
+				//	Alert alert =  new Alert(AlertType.INFORMATION, "Test information added");
+				//	alert.showAndWait();
+				//}
+			}
+
+		catch(Exception ex){
+			System.out.print(ex.getMessage());
+		}
+		finally{
+			if(this._connection != null){
+				DBConnection.closeConnection();
+			}
+		}
+	}
+}

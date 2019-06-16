@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Constructor(inheritance)\bin\Debug\Constructor(inheritance).exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Constructor(inheritance)\bin\Debug\Constructor(inheritance).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Constructor(inheritance)\bin\Debug\Constructor(inheritance).pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Constructor(inheritance)\obj\Debug\Constructor(inheritance).csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Constructor(inheritance)\obj\Debug\Constructor(inheritance).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Constructor(inheritance)\obj\Debug\Constructor(inheritance).pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Constructor(inheritance)\obj\Debug\Constructor(inheritance).csprojAssemblyReference.cache

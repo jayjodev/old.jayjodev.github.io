@@ -1,0 +1,13 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 1)\bin\Debug\Write a Text File (Example 1).exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 1)\bin\Debug\Write a Text File (Example 1).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 1)\bin\Debug\Write a Text File (Example 1).pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 1)\obj\Debug\Write a Text File (Example 1).csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 1)\obj\Debug\Write a Text File (Example 1).exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\Write a Text File (Example 1)\obj\Debug\Write a Text File (Example 1).pdb
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Write a Text File (Example 1)\bin\Debug\Write a Text File (Example 1).exe.config
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Write a Text File (Example 1)\bin\Debug\Write a Text File (Example 1).exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Write a Text File (Example 1)\bin\Debug\Write a Text File (Example 1).pdb
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Write a Text File (Example 1)\obj\Debug\Write a Text File (Example 1).csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Write a Text File (Example 1)\obj\Debug\Write a Text File (Example 1).csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Write a Text File (Example 1)\obj\Debug\Write a Text File (Example 1).exe
+C:\Users\zptdp\Desktop\Progrmming\Programming2\All Examples\Write a Text File (Example 1)\obj\Debug\Write a Text File (Example 1).pdb

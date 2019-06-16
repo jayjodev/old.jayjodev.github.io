@@ -1,0 +1,156 @@
+﻿/*2018.09.27 Gangrae Jo*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: #333333;
+    background-color: #FFFFFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 0.83em;
+    margin: 20px auto;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+/*Centennial color
+    color: #d4df38;
+    background-color: #464647;
+*/
+#title {
+    clear: both;
+    color: #000000;
+    background-color: #FFFFFF;
+    font-size: 2.5em;
+    font-family: Open Sans,Helvetica,Helvetica Neue,Arial,serif;
+    font-weight: bold;
+    padding: 25px 0px 40px 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+ul#nav {
+    clear: both;
+    float: left;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    background: #FFFFFF;
+    border-top: #000000 solid thin;
+    border-bottom: #000000 solid thin;
+    height: auto;
+}
+
+
+    ul#nav li {
+        margin: 0;
+        padding: 0;
+        float: left;
+        width: 20%;
+        height: auto;
+    }
+
+        ul#nav li a {
+            display: block;
+            text-align: center;
+            font-size: 15px;
+            font-family: 'Open sans', sans-serif;
+            color: #000000;
+            font-weight: bold;
+            text-decoration: none;
+            height: auto;
+            background: #FFFFFF;
+        }
+
+            ul#nav li a:hover {
+                background: #d4df38;
+                height: auto;
+                color: #000000;
+            }
+
+#maincontent {
+    font-size: 1.0em;
+    padding: 5px 5px 5px 5px;
+    margin: 30px 0px 0px 0px;
+    width: 70%;
+    float: right;
+}
+
+#sidecontent {
+    color: #333333;
+    background-color: #FFFFFF;
+    font-size: 0.83em;
+    padding: 10px 15px 5px 15px;
+    margin: 10px 0px 0px 0px;
+    width: 15%;
+    float: left;
+}
+
+    #sidecontent a {
+        color: #4E85BD;
+        background-color: #FFFFFF;
+    }
+
+
+
+#footer {
+    color: #000000;
+    background-color: #FFFFFF;
+    border-top: 1px solid #CCCCCC;
+    font-size: 80%;
+    line-height: 1.5em;
+    width: 100%;
+    clear: both;
+}
+
+    #footer a {
+        color: #4E85BD;
+        background-color: #FFFFFF;
+        text-decoration: none;
+    }
+
+        #footer a:hover {
+            color: #33587D;
+            background-color: #FFFFFF;
+            font-weight: normal;
+            text-decoration: underline;
+        }
+
+#copyrightdesign {
+    color: #000000;
+    background-color: #FFFFFF;
+    padding: 5px 20px 5px 0px;
+    text-align: center;
+}
+
+/*Text font*/
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, label, ul, ol, dl,
+fieldset, address {
+    margin: 0.75em 0;
+}
+
+h1 {
+    font-family: Open Sans,Helvetica,Helvetica Neue,Arial,serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: Unna,Helvetica,Helvetica Neue,Arial,serif;
+    font-size: 20px;
+}
+

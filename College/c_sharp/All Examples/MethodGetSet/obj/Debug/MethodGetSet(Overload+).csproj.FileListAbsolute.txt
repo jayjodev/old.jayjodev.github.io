@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Test for programming\Example1\MethodGetSet\bin\Debug\MethodGetSet.exe.config
+C:\Users\zptdp\Desktop\Test for programming\Example1\MethodGetSet\bin\Debug\MethodGetSet.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\MethodGetSet\bin\Debug\MethodGetSet.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\MethodGetSet\obj\Debug\MethodGetSet(Overload+).csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Test for programming\Example1\MethodGetSet\obj\Debug\MethodGetSet.exe
+C:\Users\zptdp\Desktop\Test for programming\Example1\MethodGetSet\obj\Debug\MethodGetSet.pdb
+C:\Users\zptdp\Desktop\Test for programming\Example1\MethodGetSet\obj\Debug\MethodGetSet(Overload+).csprojAssemblyReference.cache

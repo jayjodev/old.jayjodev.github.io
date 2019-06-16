@@ -1,0 +1,6 @@
+C:\Users\zptdp\Desktop\Programming2\All Examples\Test1\bin\Debug\Test1.exe.config
+C:\Users\zptdp\Desktop\Programming2\All Examples\Test1\bin\Debug\Test1.exe
+C:\Users\zptdp\Desktop\Programming2\All Examples\Test1\bin\Debug\Test1.pdb
+C:\Users\zptdp\Desktop\Programming2\All Examples\Test1\obj\Debug\Test1(problem1).csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Programming2\All Examples\Test1\obj\Debug\Test1.exe
+C:\Users\zptdp\Desktop\Programming2\All Examples\Test1\obj\Debug\Test1.pdb

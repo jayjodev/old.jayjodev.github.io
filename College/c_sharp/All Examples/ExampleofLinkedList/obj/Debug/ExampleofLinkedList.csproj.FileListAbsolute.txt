@@ -1,0 +1,7 @@
+C:\Users\zptdp\Desktop\Progrmming\ClassProgramming2\All Examples\ExampleofLinkedList\bin\Debug\ExampleofLinkedList.exe.config
+C:\Users\zptdp\Desktop\Progrmming\ClassProgramming2\All Examples\ExampleofLinkedList\bin\Debug\ExampleofLinkedList.exe
+C:\Users\zptdp\Desktop\Progrmming\ClassProgramming2\All Examples\ExampleofLinkedList\bin\Debug\ExampleofLinkedList.pdb
+C:\Users\zptdp\Desktop\Progrmming\ClassProgramming2\All Examples\ExampleofLinkedList\obj\Debug\ExampleofLinkedList.csprojAssemblyReference.cache
+C:\Users\zptdp\Desktop\Progrmming\ClassProgramming2\All Examples\ExampleofLinkedList\obj\Debug\ExampleofLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\zptdp\Desktop\Progrmming\ClassProgramming2\All Examples\ExampleofLinkedList\obj\Debug\ExampleofLinkedList.exe
+C:\Users\zptdp\Desktop\Progrmming\ClassProgramming2\All Examples\ExampleofLinkedList\obj\Debug\ExampleofLinkedList.pdb
